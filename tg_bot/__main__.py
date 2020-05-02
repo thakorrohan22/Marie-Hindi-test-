@@ -20,14 +20,10 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 नमस्ते {}, मेरा नाम {} है! मैं यहां आपके ग्रूप को मैनज करने में आपकी सहायता करने के लिए हूं!.अगर आपके पास मुझे इस्तेमाल करने का कोई प्रश्न है तो /help पर क्लिक करे
 
-मैं ग्रुप मैनेजर बॉट हूं,मेरे [भगवान](tg://user?id={}) ये है,मेरे भविष्य के अपडेट इस चैनल में डाले जाएंगे - @MarieChechi & और मेरा सपोर्ट ग्रुप @CuratorCrew है!
-
-यह मेरा [डिप्लॉय कोड है](https://heroku.com/deploy?template=https://github.com/TheDarkW3b/Marie-Hindi), आप मेरी तरह ही क्लोन बना सकते हैं।
+मैं ग्रुप मैनेजर बॉट हूं,मेरे [भगवान](tg://user?id={1046013670}) ये है,मेरे भविष्य के अपडेट मेरे सपोर्ट ग्रुप @SpiderMan_Hindi_Support मे मिलेगें
 
 अधिक कमांड के लिए /help पर क्लिक करें ...
 
-Keep in mind that any changes you DO do to the source have to be on github, as per the license.
-""" 
 
 HELP_STRINGS = """
 
